@@ -37,7 +37,7 @@ APIs: Crypto price & fiat currency APIs
 The app follows the Expo Router file-based navigation system for better scalability and cleaner code organization.
 
 ▶️ Getting Started
-git clone https://github.com/your-username/coinstack.git
+git clone https://github.com/Dnyanesh-Bachhav/CoinStack-3.0.git
 cd coinstack
 npm install
 npx expo start
