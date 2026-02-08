@@ -38,9 +38,11 @@ The app follows the Expo Router file-based navigation system for better scalabil
 
 ▶️ Getting Started
 git clone https://github.com/Dnyanesh-Bachhav/CoinStack-3.0.git
+```
 cd coinstack
 npm install
 npx expo start
+```
 
 🎯 Goal of the Project
 
